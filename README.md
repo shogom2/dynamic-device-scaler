@@ -1,4 +1,5 @@
 # dynamic-device-scaler
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/cohdi)](https://artifacthub.io/packages/search?repo=cohdi)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/CoHDI/dynamic-device-scaler/badge)](https://scorecard.dev/viewer/?uri=github.com/CoHDI/dynamic-device-scaler)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCoHDI%2Fdynamic-device-scaler.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FCoHDI%2Fdynamic-device-scaler?ref=badge_shield)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12014/badge)](https://www.bestpractices.dev/projects/12014)
