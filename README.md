@@ -50,3 +50,7 @@ After this point, the Pod is scheduled in the same way as traditional DRA with d
 
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCoHDI%2Fdynamic-device-scaler.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCoHDI%2Fdynamic-device-scaler?ref=badge_large)
+
+## Dependencies Policy
+This project uses Dependabot to automatically monitor and update third-party dependencies.
+All dependency updates are reviewed and merged by project maintainers.

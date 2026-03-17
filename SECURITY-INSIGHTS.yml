@@ -1,0 +1,33 @@
+header:
+  schema-version: "1.0.0"
+  expiration-date: "2027-03-17T00:00:00Z"
+  project-url: "https://github.com/CoHDI/dynamic-device-scaler"
+  changelog: "https://github.com/CoHDI/dynamic-device-scaler/releases"
+
+project-lifecycle:
+  status: "active"
+  bug-fixes-only: false
+  core-maintainers:
+    - "https://github.com/shogom2"
+
+contribution-policy:
+  accepts-pull-requests: true
+  accepts-automated-pull-requests: true
+  contributing-policy: "https://github.com/CoHDI/.github/blob/main/CONTRIBUTING.md"
+
+distribution-points:
+  - "https://github.com/orgs/CoHDI/packages/container/package/dynamic-device-scaler"
+
+security-contacts:
+  - type: email
+    value: "CNCF-CoHDI-Maintainers@lists.cncf.io"
+    primary: true
+
+dependencies:
+  env-dependencies-policy:
+    policy-url: "https://github.com/CoHDI/dynamic-device-scaler/blob/main/README.md"
+
+vulnerability-reporting:
+  accepts-vulnerability-reports: true
+  security-policy: "https://github.com/CoHDI/.github/blob/main/SECURITY.md"
+  email-contact: "CNCF-CoHDI-Maintainers@lists.cncf.io"
